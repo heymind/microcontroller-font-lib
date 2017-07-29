@@ -29,4 +29,4 @@ emmmm....
 
 截图：
 -----
-!(pic)[./asserts/Screenshot_20170729_102626.png]
+![pic](./asserts/Screenshot_20170729_102626.png)
