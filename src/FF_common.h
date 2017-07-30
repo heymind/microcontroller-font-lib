@@ -1,7 +1,7 @@
 #pragma once
 
 #include <stdint.h>
-
+#include <stdbool.h>
 #ifndef FF_ERROR
 #define FF_ERROR int
 #endif
